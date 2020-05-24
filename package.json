@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/target-practice/ReactReduxShopper/issues"
   },
-  "homepage": "https://github.com/target-practice/ReactReduxShopper#readme"
+  "homepage": "https://github.com/target-practice/ReactReduxShopper#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
 }
